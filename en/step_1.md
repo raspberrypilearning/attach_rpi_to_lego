@@ -10,6 +10,6 @@ Other options include:
 
 	![cableclips](images/cableclip.JPG)
 
-- Make a laser cut adapter
+- Design and make a laser-cut or 3D printed adapter.
 
- ![laser1](images/lasercut1.JPG)
+ ![laser1](images/lasercut-grid.png)
