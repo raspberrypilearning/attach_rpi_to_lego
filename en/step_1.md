@@ -3,10 +3,11 @@ There are lots of ways to connect or mount a Raspberry Pi computer to LEGO eleme
 
 The easiest way is to use the BBE that comes with the Spike Prime Education pack.
 
+![laser1](images/BBE.jpg)
+
 Other options include:
 
 - Use the cable clip LEGO elements from a LEGO Education kit.
-
 
 	![cableclips](images/cableclip.JPG)
 
