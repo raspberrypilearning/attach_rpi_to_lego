@@ -1,0 +1,12 @@
+---
+title: attach_rpi_to_lego
+hero_image: images/banner.png
+description: attach_rpi_to_lego description
+version: 4
+listed: false
+copyedit: false
+ingedient: true
+last_tested: "2020-03-23"
+steps:
+  - 
+    title: Attaching a Raspberry Pi to LEGO
