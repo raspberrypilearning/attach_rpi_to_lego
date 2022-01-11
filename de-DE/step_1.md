@@ -1,16 +1,16 @@
 
-There are lots of ways to connect or mount a Raspberry Pi computer to LEGO elements.
+Es gibt viele Möglichkeiten, einen Raspberry Pi-Computer mit LEGO-Elementen zu verbinden oder zu montieren.
 
-The easiest way is to use the BBE that comes with the Spike Prime Education pack.
+Am einfachsten ist es, die BBE zu verwenden, die mit dem Spike Prime Education-Paket geliefert wird.
 
-![laser1](images/BBE.jpg)
+![Laser1](images/BBE.jpg)
 
-Other options include:
+Andere Optionen sind:
 
-- Use the cable clip LEGO elements from a LEGO Education kit.
+- Verwende den LEGO Elemente Kabelclip aus einem LEGO Education Kit.
 
-    ![cableclips](images/cableclip.JPG)
+    ![Kabelklemmen](images/cableclip.JPG)
 
-- Design and make a laser-cut or 3D printed adapter.
+- Entwirf und fertige Sie einen lasergeschnittenen oder 3D-gedruckten Adapter.
 
- ![laser1](images/lasercut-grid.png)
+ ![Laser1](images/lasercut-grid.png)
