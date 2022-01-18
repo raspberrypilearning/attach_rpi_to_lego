@@ -1,0 +1,11 @@
+---
+title: Verbinde einen Raspberry Pi und ein Build HAT mit LEGO®
+hero_image: images/banner.png
+description: Befestigen Sie einen Raspberry Pi Build HAT an LEGO®
+version: 4
+listed: false
+copyedit: false
+ingedient: true
+last_tested: "2020-03-23"
+steps:
+  - title: Anbringen eines Raspberry Pi an LEGO
