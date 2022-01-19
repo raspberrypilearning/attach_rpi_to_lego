@@ -9,4 +9,4 @@ ingedient: true
 last_tested: "2020-03-23"
 steps:
   - 
-    title: Attaching a Raspberry Pi to LEGO
+    title: LEGO에 Raspberry Pi 연결하기
