@@ -1,0 +1,11 @@
+---
+title: 将 Raspberry Pi 和Build HAT 连接到乐高（LEGO®）
+hero_image: images/banner.png
+description: 将 Raspberry Pi Build HAT 连接到乐高（LEGO®）
+version: 4
+listed: false
+copyedit: false
+ingedient: true
+last_tested: "2020-03-23"
+steps:
+  - title: 将Raspberry Pi连接到乐高（LEGO®）
