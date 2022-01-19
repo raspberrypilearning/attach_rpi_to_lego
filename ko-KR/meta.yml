@@ -1,0 +1,11 @@
+---
+title: Raspberry Pi 그리고 Build HAT을 LEGO®에 부착하기
+hero_image: images/banner.png
+description: Raspberry Pi Build HAT을 LEGO®에 부착하기
+version: 4
+listed: false
+copyedit: false
+ingedient: true
+last_tested: "2020-03-23"
+steps:
+  - title: LEGO에 Raspberry Pi 연결하기
