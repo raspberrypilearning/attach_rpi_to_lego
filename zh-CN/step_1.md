@@ -1,16 +1,16 @@
 
-There are lots of ways to connect or mount a Raspberry Pi computer to LEGO elements.
+有很多方法可以将 Raspberry Pi 连接或安装到乐高（LEGO®）组件上。
 
-The easiest way is to use the BBE that comes with the Spike Prime Education pack.
+最简单的方法是使用 Spike Prime Education 包附带的 BBE。
 
-![laser1](images/BBE.jpg)
+![激光1](images/BBE.jpg)
 
-Other options include:
+其他选项包括：
 
-- Use the cable clip LEGO elements from a LEGO Education kit.
+- 使用乐高（LEGO®）教育套件中的乐高（LEGO®）电缆夹。
 
-    ![cableclips](images/cableclip.JPG)
+    ![电缆夹](images/cableclip.JPG)
 
-- Design and make a laser-cut or 3D printed adapter.
+- 设计一个适配器并用激光切割或 3D 打印出来。
 
- ![laser1](images/lasercut-grid.png)
+ ![激光1](images/lasercut-grid.png)
