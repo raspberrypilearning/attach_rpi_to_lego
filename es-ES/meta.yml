@@ -1,0 +1,11 @@
+---
+title: Conectar una Raspberry Pi y Build HAT a LEGO®
+hero_image: images/banner.png
+description: Conecta una Raspberry Pi Build HAT a LEGO®
+version: 4
+listed: false
+copyedit: false
+ingedient: true
+last_tested: "2020-03-23"
+steps:
+  - title: Conectando una Raspberry Pi a LEGO
