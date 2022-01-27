@@ -1,5 +1,5 @@
 
-Hay muchas formas de conectar o montar una computadora Raspberry Pi a elementos LEGO.
+Hay muchas formas de conectar o montar un ordenador Raspberry Pi a elementos LEGO.
 
 La forma más sencilla es utilizar el BBE que viene con el paquete Spike Prime Education.
 
