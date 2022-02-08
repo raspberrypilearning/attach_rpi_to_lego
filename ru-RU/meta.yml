@@ -1,7 +1,7 @@
 ---
-title: Attach a Raspberry Pi and Build HAT to LEGO®
+title: Прикрепи Raspberry Pi и Build HAT к LEGO®
 hero_image: images/banner.png
-description: Attach a Raspberry Pi Build HAT to LEGO®
+description: Прикрепи Raspberry Pi Build HAT к LEGO®
 version: 4
 listed: false
 copyedit: false
@@ -9,4 +9,4 @@ ingedient: true
 last_tested: "2020-03-23"
 steps:
   - 
-    title: Attaching a Raspberry Pi to LEGO
+    title: Присоединение Raspberry Pi к LEGO
